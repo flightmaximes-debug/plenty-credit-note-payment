@@ -1,0 +1,8 @@
+{
+  "name": "CreditNotePaymentAutomation",
+  "description": "Bucht offene Gutschriftbeträge automatisch als Rückzahlung.",
+  "namespace": "CreditNotePaymentAutomation",
+  "author": "Internal Development",
+  "type": "general",
+  "serviceProvider": "CreditNotePaymentAutomation\\Providers\\CreditNotePaymentServiceProvider"
+}
